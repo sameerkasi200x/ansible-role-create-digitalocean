@@ -1,6 +1,6 @@
 galaxy_info:
   author: Sameer Kumar
-  description: Solutions Architect
+  description: Create Digital Ocean Droplet and add that to an existing inventory file. The server will also get added to the in-memory inventory so that newly created server can be immediately used in a playbook.
   company: Ashnik Pte Ltd
   license: license (GPLv2, CC-BY, etc)
   min_ansible_version: 2.3
